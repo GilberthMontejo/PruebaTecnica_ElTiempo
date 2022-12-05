@@ -3,7 +3,7 @@ Prueba técnica para aplicar al cargo de Profesional en Entrenamiento en la Empr
 
 # Especificaciones Técnicas
 
-Este Proyecto fue desarrollado en HTNL5 y PHP 7.4.26
+Este Proyecto fue desarrollado en HTML5 y PHP 7.4.26
 
 
 # Desarrollador
