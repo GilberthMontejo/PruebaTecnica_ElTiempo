@@ -1,4 +1,4 @@
-# PruebaTecnica_ElTiempo
+# Prueba Tecnica
 Prueba técnica para aplicar al cargo de Profesional en Entrenamiento en la Empresa El Tiempo.
 
 # Especificaciones Técnicas
